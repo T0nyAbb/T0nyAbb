@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A Computer Science Student from Naples</h3>
+<h3 align="center">A Computer Science Graduate from Naples</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0nyabb&label=Profile%20views&color=0e75b6&style=flat" alt="t0nyabb" /> </p>
 
